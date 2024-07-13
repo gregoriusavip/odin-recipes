@@ -1,0 +1,17 @@
+* {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #2E382E;
+    color: #72A1E5;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+li a {
+    color: #9883E5;
+}
+
+.italic {
+    font-style: italic;
+}
