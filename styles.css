@@ -1,11 +1,30 @@
 * {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: #2E382E;
-    color: #72A1E5;
+    background-color: #3d2916;
+    color: #e7e3d9;
+    max-width: 750px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: #262a5369;
+    margin: 8px;
+    padding: 8px;
+    border: double rgb(77, 95, 102);
+}
+
+.title {
+    text-align: center;
 }
 
 .bold {
     font-weight: bold;
+}
+
+.list-spacing {
+    margin: 8px;
+    padding: 8px;
 }
 
 li a {
